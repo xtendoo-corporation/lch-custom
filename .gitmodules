@@ -1,0 +1,44 @@
+[submodule "external/hibou-oca/server-tools"]
+	path = external/hibou-oca/server-tools
+	url = https://github.com/hibou-io/oca-server-tools.git
+	branch = 12.0
+[submodule "external/hibou-oca/sale-workflow"]
+	path = external/hibou-oca/sale-workflow
+	url = https://github.com/hibou-io/oca-sale-workflow.git
+	branch = 12.0
+[submodule "external/hibou-oca/social"]
+	path = external/hibou-oca/social
+	url = https://github.com/hibou-io/oca-social
+[submodule "external/camptocamp-cloud-platform"]
+	path = external/camptocamp-cloud-platform
+	url = https://github.com/hibou-io/camptocamp-cloud-platform
+[submodule "external/hibou-oca/queue"]
+	path = external/hibou-oca/queue
+	url = https://github.com/hibou-io/oca-queue.git
+[submodule "external/hibou-oca/product-attribute"]
+	path = external/hibou-oca/product-attribute
+	url = https://github.com/hibou-io/oca-product-attribute.git
+[submodule "external/hibou-oca/bank-payment"]
+	path = external/hibou-oca/bank-payment
+	url = https://github.com/hibou-io/oca-bank-payment.git
+[submodule "external/hibou-oca/connector"]
+	path = external/hibou-oca/connector
+	url = https://github.com/hibou-io/oca-connector.git
+[submodule "external/hibou-oca/connector-ecommerce"]
+	path = external/hibou-oca/connector-ecommerce
+	url = https://github.com/hibou-io/oca-connector-ecommerce.git
+[submodule "external/hibou-oca/stock-logistics-warehouse"]
+	path = external/hibou-oca/stock-logistics-warehouse
+	url = https://github.com/hibou-io/oca-stock-logistics-warehouse.git
+[submodule "external/hibou-oca/account-analytic"]
+	path = external/hibou-oca/account-analytic
+	url = https://github.com/hibou-io/oca-account-analytic
+[submodule "external/hibou-oca/connector-magento"]
+	path = external/hibou-oca/connector-magento
+	url = https://github.com/hibou-io/oca-connector-magento.git
+[submodule "external/hibou-oca/purchase-workflow"]
+	path = external/hibou-oca/purchase-workflow
+	url = https://github.com/hibou-io/oca-purchase-workflow.git
+[submodule "external/hiboubox"]
+	path = external/hiboubox
+	url = https://gitlab.com/hibou-io/hibou-odoo/hiboubox.git
